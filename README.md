@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thematrix011
 - 👀 I’m interested in making meaningful open source contributions
-- 🌱 I’m currently learning machine learning and deep learning
-- 💞️ I’m looking to collaborate on ML and deep learning topics
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on web dev topics
 - 📫 How to reach me - my github profile or email me at : kushagramudgal@gmail.com
 
 <!---
